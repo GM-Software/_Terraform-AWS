@@ -1,3 +1,5 @@
 .env
 *.pub
-.terraform*
+/.terraform
+*.tfstate
+*.tfstate.*
